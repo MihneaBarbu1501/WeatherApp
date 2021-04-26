@@ -1,13 +1,4 @@
-# PROIECT CLOUD COMPUTING- Weather App
-
-## Introducere
-
-Transferul de stat reprezentativ (REST) este un stil arhitectonic software care definește un set de constrângeri care trebuie utilizate pentru crearea serviciilor Web. Serviciile web care se conformează stilului arhitectural REST, numit RESTful Web services, asigură interoperabilitatea între sistemele informatice de pe Internet. Serviciile web RESTful permit sistemelor solicitante să acceseze și să manipuleze reprezentările textuale ale resurselor Web, folosind un set uniform și predefinit de operații apatride. 
-
-## Descriere problema
-
-Zilnic mii de persoane de pe intregul glob se confrunta cu probleme legate de vestimentatie. Astfel, persoanele isi achizitioneaza haine de doua ori mai mult fata de acum cinci ani, potrivit Institutului National de Statistica. Fenomenul este foarte dăunător, deoarece nu suferă doar bugetele de familie, ci şi mediul. Potrivit unui studiu, la fiecare tonă de haine refolosite emisiile de dioxid de carbon scad cu 3.6 tone. In acest sens Industria textilă a ajuns a doua în topul poluării, după cea petrolieră. 
-Cu siguranta unul dintre factorii decizionali atunci cand ne alegem hainele il reprezinta si vremea de afara. Aplicatia Weather App vine astfel in sprijinul utilizatorilor de a le afisa temperatura din locatia in care acestia se afla si, in plus, o mica descriere referitoare la vremea de acasa.
+#CLOUD COMPUTING- Weather App
 
 ## OpenWeather API: 
 
